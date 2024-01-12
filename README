@@ -1,0 +1,8 @@
+# Dice game Project created by Pranav Anand on August 1st 2023
+# This project was inspired and created with Jonas Schmedtmann UDEMY COURSE 
+
+#### Description 
+
+This project is a fun two player game. In this game to win you have to reach 100 points but there is a catch. If you roll a dice and you get a 1 then it will reset score that were added up. You can keep rolling dice and keep adding up points but you have to hold it sometime incase of resetting the currents points gain and to add those points peremantly on your point chart. First one to reach 100 wins the game. This game uses a dom to add classes and to make the dice unhidden.
+
+Thank you.
